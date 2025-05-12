@@ -7,6 +7,7 @@ Curlture A is an online hair extension and wig store created for Black women, by
 This report provides a data-driven summary for the month of March 2025, using transaction-level data. Key areas of focus include revenue performance, product insights, payment trends, return patterns, and customer behavior. The goal is to highlight actionable insights that can inform decision-making, improve customer experience, and support scalable growth.
 
 # **Executive Summary**
+[![Preview Image](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Dashboard%201.png))](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Dashboard%201.png)
 
 In March 2025, Curlture A generated approximately $835,000 in total revenue, with a net revenue of around $750,000 after returns. The brand processed over 3725 orders, achieving an average of $17K daily, which is within the expected range for a brand in the scaling category of the DTC beauty sector.
 
