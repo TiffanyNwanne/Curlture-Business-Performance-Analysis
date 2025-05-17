@@ -19,7 +19,7 @@ The **customer base was 72% new**, indicating successful acquisition strategies.
 ---
 
 ## **Insights**
-The analysis was performed in [MySQL](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/curlture_hairstore_analysis.sql) and the full [analysis methodology here is here.](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Methodology.md)
+The analysis was performed in [MySQL](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/curlture_hairstore_analysis.sql) and the full [analysis methodology is here.](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Methodology.md)
 
 ### **Core KPIs**
 
