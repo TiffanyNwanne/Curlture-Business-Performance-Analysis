@@ -13,7 +13,7 @@ This report aims to provide a clear and structured explanation of the methodolog
 ---
 
 ## **2. Data Structure and Exploration**
-[!Preview Image](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Data%2520Structure.png))](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Data%2520Structure.png)
+[!]Preview Image](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Data%2520Structure.png))](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Data%2520Structure.png)
 ### **2.1 Data Source**
 
 The raw transactional data was stored in a MySQL table named `orders_march2025`.
