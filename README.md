@@ -8,7 +8,7 @@ Curlture is a Black-owned beauty brand focused on providing premium wigs, extens
 
 ## **Executive Summary**
 
-![Dashboard.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Dashboard.png)
+[![Dashboard.png](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Dashboard.png))](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Dashboard.png)
 
 In March 2025, **Curlture processed 50 orders**, generating **$3,745** in gross revenue and **$3,267** in net revenue (after returns). The **average order value (AOV)** was **$74.90**, showing strong customer purchase intent. However, **12% of orders were returned**, notably 4C-textured wigs, primarily due to texture mismatches.
 
@@ -36,17 +36,17 @@ The **customer base was 72% new**, indicating successful acquisition strategies.
 
 **Order Trend**: Activity peaks between March 2–4, with quiet periods around March 10–18.
 
-![Daily Order Trends.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Daily_Order_Trends.png)
+[![Daily Order Trends.png](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Daily%20Order%20Trends.png))](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Daily%20Order%20Trends.png)
 
 **Revenue Trend**: Early-month revenue spikes (>$220/day) drop significantly mid-month, with slight recovery by March 23.
 
-![Daily Revenue Trends.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Daily_Revenue_Trends.png)
+[![Daily Revenue Trends.png](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Daily%20Revenue%20Trends.png))](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Daily%20Revenue%20Trends.png)
 
 ---
 
 ### **Payment Methods**
 
-![Payment Methods Used.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Payment_Methods_Used.png)
+[![Payment Methods Used.png](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Payment%20Methods%20Used.png)](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Payment%20Methods%20Used.png)
 
 BNPL (Buy Now, Pay Later) is widely adopted:
 
@@ -73,7 +73,8 @@ BNPL (Buy Now, Pay Later) is widely adopted:
 
 ### **Product Category Performance**
 
-![Sales by Product Category.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Sales_by_Product_Category.png)
+[![Sales by Product Category.png](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Sales%20by%20Product%20Category.png)](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Sales%20by%20Product%20Category.png)
+
 
 | Category | Revenue | Share of Sales |
 | --- | --- | --- |
@@ -87,7 +88,7 @@ BNPL (Buy Now, Pay Later) is widely adopted:
 
 ### **Customer Insights**
 
-![Revenue By Customer Type.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Revenue_By_Customer_Type.png)
+[![Revenue By Customer Type.png](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Revenue%20By%20Customer%20Type.png)](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Revenue%20By%20Customer%20Type.png)
 
 - **New Customers**: 72%
 - **Returning Customers**: 28%
