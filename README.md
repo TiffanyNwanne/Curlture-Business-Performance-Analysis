@@ -1,67 +1,116 @@
-# Curlture Business Performance Analysis
+# Curlture Business Performance Report — March 2025
 
-# **Project Background**
+## **Background**
 
-Curlture A is an online hair extension and wig store created for Black women, by Black women, offering products that mimic natural Black hair textures including 3C, 4A, 4B, and 4C. With a growing customer base, the brand uses platforms like Klarna and Afterpay to offer flexible payments and is now seeking to better understand its monthly performance, customer behavior, and operational efficiency.
+Curlture is a Black-owned beauty brand focused on providing premium wigs, extensions, and hair bundles that celebrate and reflect natural Black hair textures (3C–4C). With flexible payment offerings like Klarna and Afterpay, Curlture is scaling its DTC presence while staying rooted in community and authenticity.
 
-This report provides a data-driven summary for the month of March 2025, using transaction-level data. Key areas of focus include revenue performance, product insights, payment trends, return patterns, and customer behavior. The goal is to highlight actionable insights that can inform decision-making, improve customer experience, and support scalable growth.
+---
 
-# **Executive Summary**
-[![Preview Image](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Dashboard%201.png))](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis/blob/main/Dashboard%201.png)
+## **Executive Summary**
 
-In March 2025, Curlture A generated approximately $835,000 in total revenue, with a net revenue of around $750,000 after returns. The brand processed over 3725 orders, achieving an average of $17K daily, which is within the expected range for a brand in the scaling category of the DTC beauty sector.
+![Dashboard.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Dashboard.png)
 
-Customers made strong use of Klarna (23%) and Afterpay (22%) which are BNPL options, while the rest of their customers use conventional payment methods like PayPal. This made users with BNPL options come up to 50% and conventional payment users slightly higher at 56%.
+In March 2025, **Curlture processed 50 orders**, generating **$3,745** in gross revenue and **$3,267** in net revenue (after returns). The **average order value (AOV)** was **$74.90**, showing strong customer purchase intent. However, **12% of orders were returned**, notably 4C-textured wigs, primarily due to texture mismatches.
 
-However, users with BNPL options had a higher AOV than traditional payment users. The return rate was 5.2%, aligning with industry benchmarks, though 4C wigs saw the highest return volume — often due to texture mismatches or shipping delays.
+Customers leaned heavily on **BNPL options** like Klarna and Afterpay, accounting for over **50% of transactions**, with Klarna users spending significantly more per order on average.
 
-# **Questions and Answers**
+The **customer base was 72% new**, indicating successful acquisition strategies. Wigs led all product categories in revenue, making up **43%** of total sales, followed by **Clip-in Extensions (29%)** and **Bundles & Closures (27%)**.
 
-**1. How much did Curlture A make last month?**
+---
 
-- Total Revenue: $42,500
-- Net Revenue (after returns): $39,400
-- Average Order Value: $69.67
-- Orders Processed: 610
+## **Insights**
 
-**2. How are customers using Klarna and Afterpay?**
+### **Core KPIs**
 
-- Klarna Usage: 24.6% of total orders
-- Afterpay Usage: 18% of total orders
-- BNPL AOV: $74 (Klarna), $71 (Afterpay)
+| Metric | Value | Benchmark / Status |
+| --- | --- | --- |
+| Total Orders | 50 | +15% vs. previous month |
+| Revenue | $3,745 | +2.3% vs. previous month |
+| Net Revenue | $3,267 | Moderate return impact |
+| AOV | $74.90 | −0.6% vs. previous month |
+| Return Rate | 12.0% | ❗Above industry average |
 
-Insight: BNPL customers spend ~10% more per order on average
+---
 
-**3. What are returns like?**
+### **Daily Trends**
 
-- Return Rate: 5.2%
-- Return Value: $3,100
-- Most Returned Product: 4C Wigs
-- Top Return Reasons: Texture mismatch (40%), shipping delays (30%), product quality (15%)
+**Order Trend**: Activity peaks between March 2–4, with quiet periods around March 10–18.
 
-Insight: Visual content and hair texture guidance could reduce return risk
+![Daily Order Trends.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Daily_Order_Trends.png)
 
-**4. Which products perform best?**
+**Revenue Trend**: Early-month revenue spikes (>$220/day) drop significantly mid-month, with slight recovery by March 23.
 
-- Top Categories by Revenue:
-    - 3C Wigs – $9,000
-    - 4A Wigs – $7,200
-    - Clip-In Extensions – $7,500
+![Daily Revenue Trends.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Daily_Revenue_Trends.png)
 
-Insight: Wigs account for 60–65% of revenue, but extensions show strong AOV
+---
 
-**5. How are customers behaving?**
+### **Payment Methods**
 
-- Customer Split: 59% New, 41% Returning
-- High-LTV Segments: Returning customers spend ~$162 LTV
+![Payment Methods Used.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Payment_Methods_Used.png)
 
-Insight: Loyal base is forming in major urban centers — potential for localized campaigns
+BNPL (Buy Now, Pay Later) is widely adopted:
 
-**6. Are we hitting performance benchmarks?**
+- **Klarna AOV**: $85.36
+- **Afterpay AOV**: $63.08
 
-| **Metric** | **Actual** | **Benchmark** | **Status** |
-| --- | --- | --- | --- |
-| Revenue | $42,500 | $50,000 | Slightly Below Target |
-| Return Rate | 5.2% | <5% | At Threshold |
-| AOV | $69.67 | $70 | On Target |
-| Klarna + Afterpay | 42.6% | ~35% | Above Industry Avg |
+**Insight**: Klarna users spend ~35% more than Afterpay or traditional users.
+
+---
+
+### **Returns Analysis**
+
+- **Return Rate**: 12% (industry benchmark is <5%)
+- **Return Value**: $478
+- **Top Return Reasons**:
+    - *Wrong texture match*: 50%
+    - *Product quality concerns*: 33%
+    - *Shipping delays*: 17%
+- **Most Returned Product**: 4C Wigs
+
+❗**Action**: Improve product visuals, launch texture quizzes, and offer personalized guidance to reduce mismatches.
+
+---
+
+### **Product Category Performance**
+
+![Sales by Product Category.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Sales_by_Product_Category.png)
+
+| Category | Revenue | Share of Sales |
+| --- | --- | --- |
+| Wigs | $1,620 | 43% |
+| Clip-in Extensions | $1,100 | 29% |
+| Bundle & Closure | $1,025 | 27% |
+
+**Insight**: Wigs drive volume, but extensions show growing strength — ideal for bundling strategies.
+
+---
+
+### **Customer Insights**
+
+![Revenue By Customer Type.png](Curlture%20Business%20Performance%20Report%20%E2%80%94%20March%202025%201f64799bb26780c4b56ce763991e986c/Revenue_By_Customer_Type.png)
+
+- **New Customers**: 72%
+- **Returning Customers**: 28%
+- **New Customer Revenue**: $2,590
+- **Returning Customer Revenue**: $1,155
+
+**Opportunity**: Build a returning customer program via referral codes, reorder discounts, or VIP tiers.
+
+---
+
+## **Strategic Recommendations**
+
+1. **Enhance Product Education**
+    - Add side-by-side texture comparison visuals.
+    - Create a “Find Your Match” quiz to personalize wig suggestions.
+2. **Activate Post-Purchase Journeys**
+    - Email workflows to encourage reviews, reorder reminders, and user-generated content.
+3. **Leverage BNPL in Marketing**
+    - Highlight Klarna/Afterpay in ads to drive higher conversion and AOV.
+4. **Smooth Sales Curve**
+    - Schedule “Mid-Month Momentum” campaigns targeting historically low-activity dates.
+5. **Reduce Returns**
+    - Flag high-return items (e.g., 4C wigs) for quality checks.
+    - Offer free texture swatches with high-AOV purchases.
+
+---
