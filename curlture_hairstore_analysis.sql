@@ -98,9 +98,3 @@ SELECT CustomerType, COUNT(*) AS Orders,
        ROUND(SUM(OrderValue), 2) AS Revenue
 FROM orders_march2025
 GROUP BY CustomerType;
-
--- Customer Locations --
-SELECT Location, COUNT(*) AS Orders, SUM(OrderValue) AS Revenue
-FROM orders_march2025
-GROUP BY Location
-ORDER BY Revenue DESC;
