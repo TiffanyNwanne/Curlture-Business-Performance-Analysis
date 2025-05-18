@@ -4,7 +4,7 @@
 
 Curlture is a Black-owned beauty brand focused on providing premium wigs, extensions, and hair bundles that celebrate and reflect natural Black hair textures (3C–4C). With flexible payment offerings like Klarna and Afterpay, Curlture is scaling its DTC presence while staying rooted in community and authenticity. 
 
-As the business grows, Curlture A seeks deeper insight into its performance for the most recent month. Specifically, the company wants to understand:
+As the business grows, Curlture seeks deeper insight into its performance for the most recent month. Specifically, the company wants to understand:
 
  - How much revenue was generated in the last month
 
