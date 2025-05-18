@@ -12,6 +12,10 @@ As the business grows, Curlture seeks deeper insight into its performance for th
 
  - The volume and reasons for product returns
 
+ - The popular products solds 
+ 
+ - Order trends throughout the month 
+
 ---
 
 ## **Executive Summary**
