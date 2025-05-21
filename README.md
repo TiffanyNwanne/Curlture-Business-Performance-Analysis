@@ -1,6 +1,6 @@
-# Curlture Business Performance Report — March 2025
+# Curlture Business Performance Report
 
-## **Background**
+## **Project Background**
 
 Curlture is a Black-owned beauty brand focused on providing premium wigs, extensions, and hair bundles that celebrate and reflect natural Black hair textures (3C–4C). With flexible payment offerings like Klarna and Afterpay, Curlture is scaling its DTC presence while staying rooted in community and authenticity. 
 
